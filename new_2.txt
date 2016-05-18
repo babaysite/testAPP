@@ -3,3 +3,6 @@ but more diffcult in changing something,if you love her
 aaaaaa
 what a petty!
 everything is impossible!
+ssh-keygen -t rsa -C "youremail@example.com"
+ssh-keygen -t rsa -C "youremail@example.com"
+ssh-keygen -t rsa -C "youremail@example.com"
